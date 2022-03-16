@@ -1,0 +1,13 @@
+{
+    "region": "us-east-1",
+    "userPool": "us-east-1_SvQkJNdJU",
+    "clientId": "11bp7nchcac7dq16fjduqogvig",
+    "callbackUri": "http://localhost:3000/callback",
+    "signoutUri": "http://localhost:3000/",
+    "tokenScopes": [
+        "openid",
+        "email",
+        "profile",
+        "https://cognito-demo-api.arronharden.com/hello-world.all"                
+    ]
+}
